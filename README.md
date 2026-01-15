@@ -71,7 +71,6 @@ The primary goals of this project are:
 Ruben-Sauer-Cloete-CV-Webpage/
 ├── index.html          # Main CV page
 ├── styles.css          # Styling
-├── print.css           # Print-specific styles (optional)
 └── README.md          # Documentation
 ```
 
@@ -166,4 +165,5 @@ This CV webpage is for professional use and personal representation.
 ---
 
 **Professional CV | Web Development | GitHub Pages | 2024**
+
 
